@@ -1,4 +1,4 @@
-Olá! Eu sou o Eduardo Pinheiro, o maior comedor de xoxó profissional 😏
+## Oii! Eu sou o Eduardo Pinheiro, o maior comedor de xoxó profissional 😏
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em adquirir habilidades técnicas e práticas na criação e manutenção de software, estou sempre buscando aprender novas tecnologias e tendências do mercado.
 
 Linguagens que atualmente uso 💻
@@ -8,7 +8,9 @@ Linguagens que atualmente uso 💻
   <img align=center alt="html5" src="https://img.shields.io/badge/JAVASCRIPT-FFFF00?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align=center alt="html5" src="https://img.shields.io/badge/Python-483D8B?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-
+<p>
+  
+</p>
 Sistemas Operacionais 👨‍💻
 <div style="display: inline_block"><br/>
   <img align=center alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
