@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Eduardo Pinheiro 😏
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em adquirir habilidades técnicas e práticas na criação e manutenção de software, estou sempre buscando aprender novas tecnologias e tendências do mercado.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) em constante busca de aprimoramento!
 <p>
   
 </p>
