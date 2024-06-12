@@ -52,7 +52,7 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
     <h3 style="font-weight: bold;"> 💼 Avaliando meu portfólio?</h5>
     <p>Agradeço pela sua atenção. Organizei o meu portfólio para facilitar a sua navegação e visualização dos aspectos específicos do seu interesse.</p>
-    <p>Basta <a href="[[https://github.com/JoseBarceloss?tab=stars](https://github.com/balerov?tab=stars)]" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">clicar aqui</a> ou na estrela ⭐ acima, ao lado de 'Packages', para acessar os meus repositórios favoritos.</p>
+    <p>Basta <a href="[[https://github.com/balerov?tab=stars](https://github.com/balerov?tab=stars)]" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">clicar aqui</a> ou na estrela ⭐ acima, ao lado de 'Packages', para acessar os meus repositórios favoritos.</p>
     <h4>Criei listas para facilitar ainda mais:</h4>
     <ul style="list-style-type: none; padding-left: 0;">
         <li><a href="https://github.com/stars/JoseBarceloss/lists/projeto" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Projeto ⭐</a></li>
