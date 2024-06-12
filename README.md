@@ -7,15 +7,39 @@
  
  - #### Front-End 🖌️
     
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
   
  
 
 - #### Back-End 👨‍💻
- ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
- ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<?php
+
+// Criar uma imagem com 130 pixels de largura e 30 pixels de altura
+$image = imagecreatetruecolor(130, 30);
+
+// Definir a cor de fundo como a cor hexadecimal #20232A
+$background_color = imagecolorallocate($image, 32, 35, 42);
+imagefill($image, 0, 0, $background_color);
+
+// Definir a cor do texto como a cor hexadecimal #61DAFB
+$text_color = imagecolorallocate($image, 97, 218, 251);
+
+// Escrever o texto "PHP" na imagem
+$text = "PHP";
+$font = 'arial.ttf'; // Altere o nome da fonte conforme necessário
+imagettftext($image, 14, 0, 10, 20, $text_color, $font, $text);
+
+// Definir o cabeçalho de tipo de conteúdo para imagem PNG
+header('Content-type: image/png');
+
+// Exibir a imagem PNG
+imagepng($image);
+
+// Liberar memória
+imagedestroy($image);
+
+?>
+
 
 
  - #### Test 👷‍♀️
