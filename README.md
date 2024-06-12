@@ -12,17 +12,7 @@
  
 
 - #### Back-End 👨‍💻
-<$image = imagecreatetruecolor(130, 30);
-$background_color = imagecolorallocate($image, 32, 35, 42);
-imagefill($image, 0, 0, $background_color);
-$text_color = imagecolorallocate($image, 97, 218, 251);
-$text = "PHP";
-$font = 'arial.ttf'; 
-imagettftext($image, 14, 0, 10, 20, $text_color, $font, $text);
-header('Content-type: image/png');
-imagepng($image);
-imagedestroy($image);
-?>
+
 
 
 
