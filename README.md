@@ -1,22 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)
-<h1 align="left">Oi!! Eu sou o Eduardo Pinheiro, comedor de xoxota profssional 😏 </h1>
+Olá! Eu sou o Eduardo Pinheiro, o maior comedor de xoxó profissional 😏
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em adquirir habilidades técnicas e práticas na criação e manutenção de software, estou sempre buscando aprender novas tecnologias e tendências do mercado.
 
-<img align="right" width="400px" height="430px" src="!image
-">
-<h3> 🛠  🔭 Hard-Skills </h3>
- 
-#### Front-End 🖌️
-!HTML
-!CSS
-!JavaScript
-!Bootstrap
+!balerov GitHub stats
 
-#### Version Control & CI/CD 🔄
-!Git
-!GitHub
+Linguagens que atualmente uso 💻
+<div style="display: inline_block"><br/>
+  <img align=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align=center alt="html5" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white" />
+  <img align=center alt="html5" src="https://img.shields.io/badge/JAVASCRIPT-1572B6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align=center alt="html5" src="https://img.shields.io/badge/Python-483D8B?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-#### Communication & Tools 💬
-!Discord
 
-#### Operating Systems 🖥️
-!Windows
+Sistemas Operacional 👨‍💻
+<div style="display: inline_block"><br/>
+  <img align=center alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align=center alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</div>
