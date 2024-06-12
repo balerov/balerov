@@ -1,4 +1,4 @@
-## Oii! Eu sou o Eduardo Pinheiro 😏
+## Oii! Eu sou o Eduardo😏
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em constante busca de aprimoramento!
 <p>
   
