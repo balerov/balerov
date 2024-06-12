@@ -12,32 +12,16 @@
  
 
 - #### Back-End 👨‍💻
-<?php
-
-// Criar uma imagem com 130 pixels de largura e 30 pixels de altura
-$image = imagecreatetruecolor(130, 30);
-
-// Definir a cor de fundo como a cor hexadecimal #20232A
+<$image = imagecreatetruecolor(130, 30);
 $background_color = imagecolorallocate($image, 32, 35, 42);
 imagefill($image, 0, 0, $background_color);
-
-// Definir a cor do texto como a cor hexadecimal #61DAFB
 $text_color = imagecolorallocate($image, 97, 218, 251);
-
-// Escrever o texto "PHP" na imagem
 $text = "PHP";
-$font = 'arial.ttf'; // Altere o nome da fonte conforme necessário
+$font = 'arial.ttf'; 
 imagettftext($image, 14, 0, 10, 20, $text_color, $font, $text);
-
-// Definir o cabeçalho de tipo de conteúdo para imagem PNG
 header('Content-type: image/png');
-
-// Exibir a imagem PNG
 imagepng($image);
-
-// Liberar memória
 imagedestroy($image);
-
 ?>
 
 
